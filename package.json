@@ -1,0 +1,19 @@
+{
+  "name": "organic-gardening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chutipon29301/OrganicGardening.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chutipon29301/OrganicGardening/issues"
+  },
+  "homepage": "https://github.com/chutipon29301/OrganicGardening#readme"
+}
