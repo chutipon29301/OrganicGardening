@@ -1,11 +1,11 @@
 {
   "name": "organic-gardening",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project of Oragnic Gardening",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ."
+    "start": "node ."
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/chutipon29301/OrganicGardening#readme",
   "dependencies": {
-    "express": "^4.16.2",
-    "pug": "^2.0.0-rc.4"
+    "express": "^4.16.2"
   }
 }
