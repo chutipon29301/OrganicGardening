@@ -19,11 +19,11 @@ $('#topic7').click(function() {
 });
 
 $('#topic8').click(function() {
-    window.open('Lectures/temp.pdf','_blank');
+    window.open('Lectures/8.pdf','_blank');
 });
 
 $('#topic9').click(function() {
-    window.open('Lectures/temp.pdf','_blank');
+    window.open('Lectures/9.pdf','_blank');
 });
 
 $('#topic10').click(function() {
